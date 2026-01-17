@@ -15,7 +15,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     Author.name = "Rudolf Grauberger"
     Author.email = "rudolf@grauberger.org"
     brand = "Rudolf Grauberger"                      # name of your site - appears in the sidebar
-    remote_brand_image = 'https://avatars.githubusercontent.com/u/12803598?s=400&v=4' # path to a remote file
+    remote_brand_image = 'https://gravatar.com/avatar/ca0ddff9dc36a8a0b631468b056445910fb90994168b6a1a4a500a2ca4693297?v=1720823764000&size=256&d=initials' # path to a remote file
     # brand_image = "/images/test.jpg"    # path to the image shown in the sidebar
     description = "Null Magic.</br>Just Engineering." # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
@@ -33,6 +33,8 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         {Name = "About", URL = "/about/", HasChildren = false},
         {Name = "Posts", URL = "/posts/", HasChildren = true, Limit = 5},
     ]
+
+    archiv_text = 'Dieser Artikel wurde aus meinem alten Blog-System übernommen. Kleinere Darstellungsunterschiede sind möglich. Inhaltlich entspricht er meinem damaligen Wissensstand und ist vielleicht nicht mehr auf dem neuesten Stand.'
 
     # Links to your socials.  Comment or delete any you don't need/use. 
     # discord_url = "https://discord.com"

@@ -2,7 +2,7 @@
 title: "Der Blog lebt wieder"
 date: 2025-11-30
 draft: false
-hideToc: false
+hideToc: true
 tags: ["introduction"]
 ---
 
@@ -11,6 +11,8 @@ Nach einigen Jahren Pause ist dieser Blog zurück — mit frischem Setup, klarer
 <!--more-->
 
 In diesem Zuge ist der Blog auch technisch modernisiert. Statt Jekyll läuft er jetzt auf **Hugo**. Nicht, weil es hip ist, sondern weil es schnell, übersichtlich und angenehm für Entwickler ist. Weniger Overhead, mehr Fokus aufs Schreiben.
+
+Die alten Posts habe ich in das neue System übernommen und man findet sie weiterhin unter dem Label [**archiv**](/tags/archiv/).
 
 ## Warum ich schreibe
 
